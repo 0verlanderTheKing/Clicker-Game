@@ -1,1 +1,1 @@
-# Clicker-Game (WIP)
+# Clicker-Game
